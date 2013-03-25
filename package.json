@@ -1,0 +1,35 @@
+{
+  "name": "symfio-contrib-express-logger"
+, "version": "0.1.0"
+, "description": "Express requests logger."
+, "keywords": ["symfio-plugin", "symfio-contrib", "express"]
+, "homepage": "http://symf.io/plugins/contrib-express-logger"
+, "bugs": {
+    "url": "https://github.com/symfio/symfio-contrib-express-logger/issues"
+  , "email": "webmaster@rithis.com"
+  }
+, "author": {
+    "name": "Vyacheslav Slinko"
+  , "email": "vyacheslav.slinko@gmail.com"
+  }
+, "main": "lib/express-logger"
+, "repository": {
+    "type": "git"
+  , "url": "git://github.com/symfio/symfio-contrib-express-logger.git"
+  }
+, "scripts": {
+    "test": "grunt simplemocha"
+  }
+, "devDependencies": {
+    "symfio": "~1.0"
+  , "symfio-suite": "~1.0"
+  , "grunt": "~0.4"
+  , "grunt-simple-mocha": "~0.3"
+  , "grunt-coffeelint": "~0.0"
+  }
+, "engines": {
+    "node": "~0.8"
+  , "npm": "~1.2"
+  , "coffee-script": "~1.6"
+  }
+}
