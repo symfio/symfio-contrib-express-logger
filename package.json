@@ -1,6 +1,6 @@
 {
   "name": "symfio-contrib-express-logger"
-, "version": "0.1.0"
+, "version": "0.1.1"
 , "description": "Express requests logger."
 , "keywords": ["symfio-plugin", "symfio-contrib", "express"]
 , "homepage": "http://symf.io/plugins/contrib-express-logger"
